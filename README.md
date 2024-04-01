@@ -1,2 +1,2 @@
-# Recepie-website
+# Recepie-website.
 Uploaded Recepie website
